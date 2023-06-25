@@ -26,7 +26,9 @@ These visualizations of number of rides per start station show the total number 
 - --------------------------------------------------------------------------------------------------------------
 
 ![image](https://github.com/CMccormick0003/citibike_tableau/assets/120672518/2a258e31-21a2-480f-a4c6-7d42dff69521)
-![image](https://github.com/CMccormick0003/citibike_tableau/assets/120672518/21f1121b-65be-4de3-bb36-a157f99a7ab7)
-![image](https://github.com/CMccormick0003/citibike_tableau/assets/120672518/67590703-473b-4ca6-bc15-39373116d0d6)
 - At most stations, classic bikes were used to start a trip than electric bikes.
+
 - At a few stations, electric bikes were used more often (eg, Sip Ave and Baldwin at Montgomery).
+![image](https://github.com/CMccormick0003/citibike_tableau/assets/120672518/21f1121b-65be-4de3-bb36-a157f99a7ab7)
+
+![image](https://github.com/CMccormick0003/citibike_tableau/assets/120672518/67590703-473b-4ca6-bc15-39373116d0d6)
