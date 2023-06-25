@@ -6,7 +6,8 @@ This analysis reviews Jersey City CitiBike usage during March 2022.
 ![image](https://github.com/CMccormick0003/citibike_tableau/assets/120672518/ddc8c7e8-951a-42da-8163-04276e5ce336)
 ![image](https://github.com/CMccormick0003/citibike_tableau/assets/120672518/467d73e9-5867-42ef-964c-326c024076f1)
 ![image](https://github.com/CMccormick0003/citibike_tableau/assets/120672518/016a829d-04fb-4ddd-ba87-5ed4ca197614)
-These visualizations of number of rides per start station show the total number of rides per each station where a ride started.  
+![image](https://github.com/CMccormick0003/citibike_tableau/assets/120672518/65950d28-a340-4b8c-a8a1-439cb6cd1ec3)
+These visualizations of number of rides per start station show the total number of rides per each station where a ride started.  They are various ways to show the same message.
 - Station with the most start rides: Grove St PATH, 2535 rides
 - Followed by: Hoboken Terminal - River St & Hudon Pl, 2380 rides
 
