@@ -3,6 +3,11 @@
 
 This analysis reviews Jersey City CitiBike usage during March 2022.
 
+Dashboard view:
+![image](https://github.com/CMccormick0003/citibike_tableau/assets/120672518/7b6d0948-848d-457c-8bbb-4e3fc1d6b26c)
+
+-------------------------------------------------------------------------------------------------------------
+
 ![image](https://github.com/CMccormick0003/citibike_tableau/assets/120672518/cc4322ef-a601-4378-a152-f65ad5caaea3)
 ![image](https://github.com/CMccormick0003/citibike_tableau/assets/120672518/467d73e9-5867-42ef-964c-326c024076f1)
 ![image](https://github.com/CMccormick0003/citibike_tableau/assets/120672518/016a829d-04fb-4ddd-ba87-5ed4ca197614)
