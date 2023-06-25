@@ -3,7 +3,7 @@
 
 This analysis reviews Jersey City CitiBike usage during March 2022.
 
-![image](https://github.com/CMccormick0003/citibike_tableau/assets/120672518/ddc8c7e8-951a-42da-8163-04276e5ce336)
+![image](https://github.com/CMccormick0003/citibike_tableau/assets/120672518/cc4322ef-a601-4378-a152-f65ad5caaea3)
 ![image](https://github.com/CMccormick0003/citibike_tableau/assets/120672518/467d73e9-5867-42ef-964c-326c024076f1)
 ![image](https://github.com/CMccormick0003/citibike_tableau/assets/120672518/016a829d-04fb-4ddd-ba87-5ed4ca197614)
 ![image](https://github.com/CMccormick0003/citibike_tableau/assets/120672518/65950d28-a340-4b8c-a8a1-439cb6cd1ec3)
@@ -25,3 +25,8 @@ These visualizations of number of rides per start station show the total number 
 
 - --------------------------------------------------------------------------------------------------------------
 
+![image](https://github.com/CMccormick0003/citibike_tableau/assets/120672518/2a258e31-21a2-480f-a4c6-7d42dff69521)
+![image](https://github.com/CMccormick0003/citibike_tableau/assets/120672518/21f1121b-65be-4de3-bb36-a157f99a7ab7)
+![image](https://github.com/CMccormick0003/citibike_tableau/assets/120672518/67590703-473b-4ca6-bc15-39373116d0d6)
+- At most stations, classic bikes were used to start a trip than electric bikes.
+- At a few stations, electric bikes were used more often (eg, Sip Ave and Baldwin at Montgomery).
